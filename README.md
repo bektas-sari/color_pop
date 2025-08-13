@@ -1,4 +1,4 @@
-# Color Pop
+# Color Pop (Flutter APP)
 
 A fun and engaging Flutter-based mobile game designed for children aged 4-6. Players must pop colorful balloons before they reach the top of the screen, improving reaction speed, attention, and hand-eye coordination.
 
