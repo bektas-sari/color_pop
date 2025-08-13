@@ -39,7 +39,7 @@ A fun and engaging Flutter-based mobile game designed for children aged 4-6. Pla
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/color_pop.git
+   git clone https://github.com/bektas-sari/color_pop.git
    ```
 2. **Navigate to the Project**:
 
