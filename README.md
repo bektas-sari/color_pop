@@ -82,11 +82,11 @@ assets/            # Reserved for optional images or sounds
 ## Author
 
 **Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [Bektas Sari](https://www.linkedin.com/in/bektas-sari)
-ResearchGate: [Profile](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [Profile](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)<br>
+GitHub: [bektas-sari](https://github.com/bektas-sari)<br>
+LinkedIn: [Bektas Sari](https://www.linkedin.com/in/bektas-sari)<br>
+ResearchGate: [Profile](https://www.researchgate.net/profile/Bektas-Sari-3)<br>
+Academia: [Profile](https://independent.academia.edu/bektassari)<br>
 
 ---
 
